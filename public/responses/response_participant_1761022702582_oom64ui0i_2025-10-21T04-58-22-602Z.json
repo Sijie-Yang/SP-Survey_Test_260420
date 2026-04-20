@@ -1,0 +1,46 @@
+{
+  "participant_id": "participant_1761022702582_oom64ui0i",
+  "responses": {
+    "age": "1",
+    "gender": "女",
+    "education": "高中及以下",
+    "street_preference_ranking": [
+      "image_0",
+      "image_2",
+      "image_1",
+      "image_3"
+    ],
+    "thermal_comfort_rating": 2,
+    "walkability_assessment": true,
+    "multi_attribute_rating": {
+      "safety": "3"
+    }
+  },
+  "displayed_images": {
+    "street_preference_ranking": [
+      "sijiey_Thermal-Affordance-Dataset_46_image",
+      "sijiey_Thermal-Affordance-Dataset_92_image",
+      "sijiey_Thermal-Affordance-Dataset_1_image",
+      "sijiey_Thermal-Affordance-Dataset_63_image"
+    ],
+    "thermal_comfort_rating": [
+      "sijiey_Thermal-Affordance-Dataset_96_image"
+    ],
+    "walkability_assessment": [
+      "sijiey_Thermal-Affordance-Dataset_25_image"
+    ],
+    "multi_attribute_rating": [
+      "sijiey_Thermal-Affordance-Dataset_22_image",
+      "sijiey_Thermal-Affordance-Dataset_49_image",
+      "sijiey_Thermal-Affordance-Dataset_40_image"
+    ]
+  },
+  "survey_metadata": {
+    "completion_time": "2025-10-21T04:58:22.581Z",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15",
+    "screen_resolution": "1512x982",
+    "survey_version": "2.0-admin-proj_1761018229236_qkzzy9gy8",
+    "project_id": "proj_1761018229236_qkzzy9gy8"
+  },
+  "saved_at": "2025-10-21T04:58:22.582Z"
+}

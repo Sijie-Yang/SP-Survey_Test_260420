@@ -1,0 +1,19 @@
+{
+  "buildCommand": "npm run build",
+  "build": {
+    "env": {
+      "REACT_APP_SUPABASE_URL": "https://lyziaaewgbtqoikanltg.supabase.co",
+      "REACT_APP_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx5emlhYWV3Z2J0cW9pa2FubHRnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY2NjgyMTUsImV4cCI6MjA5MjI0NDIxNX0.f-aaBNRjZPN3ZpZLRZa8oqV05_MX85kHQWVQi0bggC0"
+    }
+  },
+  "env": {
+    "REACT_APP_SUPABASE_URL": "https://lyziaaewgbtqoikanltg.supabase.co",
+    "REACT_APP_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx5emlhYWV3Z2J0cW9pa2FubHRnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY2NjgyMTUsImV4cCI6MjA5MjI0NDIxNX0.f-aaBNRjZPN3ZpZLRZa8oqV05_MX85kHQWVQi0bggC0"
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

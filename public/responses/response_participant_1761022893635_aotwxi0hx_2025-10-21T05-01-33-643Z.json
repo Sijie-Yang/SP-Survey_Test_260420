@@ -1,0 +1,48 @@
+{
+  "participant_id": "participant_1761022893635_aotwxi0hx",
+  "responses": {
+    "age": "12",
+    "gender": "女",
+    "education": "大专",
+    "street_preference_ranking": [
+      "image_0",
+      "image_1",
+      "image_3",
+      "image_2"
+    ],
+    "thermal_comfort_rating": 2,
+    "walkability_assessment": true,
+    "multi_attribute_rating": {
+      "aesthetics": "2",
+      "walkability": "2",
+      "safety": "3"
+    }
+  },
+  "displayed_images": {
+    "street_preference_ranking": [
+      "sijiey_Thermal-Affordance-Dataset_28_image",
+      "sijiey_Thermal-Affordance-Dataset_77_image",
+      "sijiey_Thermal-Affordance-Dataset_84_image",
+      "sijiey_Thermal-Affordance-Dataset_95_image"
+    ],
+    "thermal_comfort_rating": [
+      "sijiey_Thermal-Affordance-Dataset_55_image"
+    ],
+    "walkability_assessment": [
+      "sijiey_Thermal-Affordance-Dataset_68_image"
+    ],
+    "multi_attribute_rating": [
+      "sijiey_Thermal-Affordance-Dataset_52_image",
+      "sijiey_Thermal-Affordance-Dataset_42_image",
+      "sijiey_Thermal-Affordance-Dataset_74_image"
+    ]
+  },
+  "survey_metadata": {
+    "completion_time": "2025-10-21T05:01:33.634Z",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15",
+    "screen_resolution": "1512x982",
+    "survey_version": "2.0-admin-proj_1761018229236_qkzzy9gy8",
+    "project_id": "proj_1761018229236_qkzzy9gy8"
+  },
+  "saved_at": "2025-10-21T05:01:33.635Z"
+}

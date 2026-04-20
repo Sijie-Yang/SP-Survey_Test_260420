@@ -1,0 +1,31 @@
+{
+  "participant_id": "participant_1776673709137_6olrj5obx",
+  "responses": {
+    "question_1776672556373": {
+      "liveability?": "5",
+      "imageability?": "4"
+    }
+  },
+  "displayed_images": {
+    "question_1776672556373": [
+      "image_000476.jpg"
+    ],
+    "question_1776672556374": [
+      "image_000137.jpg"
+    ],
+    "question_1776672556375": [
+      "image_000035.jpg"
+    ],
+    "question_1776672556376": [
+      "image_000467.jpg"
+    ]
+  },
+  "survey_metadata": {
+    "completion_time": "2026-04-20T08:28:29.137Z",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15",
+    "screen_resolution": "1800x1169",
+    "survey_version": "2.0-admin-proj_1763380352930_h02zxzvie",
+    "project_id": "proj_1763380352930_h02zxzvie"
+  },
+  "saved_at": "2026-04-20T08:28:29.137Z"
+}
